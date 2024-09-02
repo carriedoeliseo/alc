@@ -1,0 +1,10 @@
+http://mathworld.wolfram.com/LinearAlgebra.html
+http://mathworld.wolfram.com/Vector.html
+http://mathworld.wolfram.com/Determinant.html
+http://mathworld.wolfram.com/Matrix.html
+http://mathworld.wolfram.com/RotationMatrix.html
+http://mathworld.wolfram.com/PositiveDefiniteMatrix.html
+http://mathworld.wolfram.com/LUDecomposition.html
+http://mathworld.wolfram.com/CholeskyDecomposition.html
+http://mathworld.wolfram.com/QRDecomposition.html
+http://mathworld.wolfram.com/VandermondeMatrix.html
